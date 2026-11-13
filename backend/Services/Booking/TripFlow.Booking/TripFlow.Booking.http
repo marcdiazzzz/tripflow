@@ -1,0 +1,11 @@
+@TripFlow.Booking_HostAddress = http://localhost:5240
+
+GET {{TripFlow.Booking_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{TripFlow.Booking_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

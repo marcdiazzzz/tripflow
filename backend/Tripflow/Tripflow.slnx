@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../ApiGateway/TripFlow.ApiGateway/TripFlow.ApiGateway.csproj" />
+  <Project Path="../Services/Booking/TripFlow.Booking/TripFlow.Booking.csproj" />
+  <Project Path="../Services/Identity/TripFlow.Identity/TripFlow.Identity.csproj" />
+  <Project Path="../Services/Notification/TripFlow.Notification/TripFlow.Notification.csproj" />
+  <Project Path="../TripFlow.Contracts/TripFlow.Contracts.csproj" />
+</Solution>

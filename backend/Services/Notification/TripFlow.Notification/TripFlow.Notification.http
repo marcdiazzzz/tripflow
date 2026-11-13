@@ -1,0 +1,11 @@
+@TripFlow.Notification_HostAddress = http://localhost:5260
+
+GET {{TripFlow.Notification_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{TripFlow.Notification_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
